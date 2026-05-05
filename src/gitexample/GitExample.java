@@ -4,6 +4,8 @@
  */
 package gitexample;
 
+import java.util.Scanner;
+
 /**
  *
  * @author kheal
@@ -15,6 +17,9 @@ public class GitExample {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        Scanner myKB = new Scanner(System.in);
+        
     }
     
 }
