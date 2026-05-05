@@ -20,6 +20,10 @@ public class GitExample {
         
         Scanner myKB = new Scanner(System.in);
         
+        int num;
+        
+        num = myKB.nextInt();
+        
     }
     
 }
